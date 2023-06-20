@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cryptopartia
-- 👀 I’m interested in Aptos
+- 👀 I’m interested in ConsenSys and Aptos
 
 <!---
 cryptopartia/cryptopartia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
